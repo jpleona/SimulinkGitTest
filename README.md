@@ -6,10 +6,10 @@ Project can be licensed with the included license file.
 
 Here are some contrived examples of Simulink models in .slx format
 with a library in the project with blocks used in different model
-files. I make an attempts to show how Git can be used by a team to do
+files. I make an attempt to show how Git can be used by a team to do
 distributed work (multiple users on multiple machines) using
 Simulink Project, Git/GitHub. I'm also working with the GitHub issue
-tool to see how that can be used with Simulink.
+tracking tool to see how that can be used with Simulink.
 
 I'm using 
 Matlab R2015a
